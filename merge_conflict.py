@@ -1,1 +1,1 @@
-"Foo:Bar"
+"Foo:Foo"
